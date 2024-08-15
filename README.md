@@ -16,7 +16,7 @@ Game over detection when the snake collides with walls or itself
 Responsive controls using keyboard input
 
 #### Concepts Used
-UsedJava Swing: Used for creating the graphical user interface (GUI) components of the game, such as the game window, buttons, and panels.
+Java Swing: Used for creating the graphical user interface (GUI) components of the game, such as the game window, buttons, and panels.
 
 Java AWT (Abstract Window Toolkit): Provides additional GUI controls, graphics, and event handling for the game.
 
